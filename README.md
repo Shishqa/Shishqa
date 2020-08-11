@@ -10,7 +10,7 @@
   </samp>
   <br>
   <br>
-  <img src="img/scramble.gif" width="350" />
+  <img src="https://github.com/Shishqa/Shishqa/blob/master/img/scramble.gif" width="350" />
   <br>
   <br>
 </p>
