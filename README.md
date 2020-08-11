@@ -12,5 +12,5 @@
   <br>
   <br>
   <br>
-  <img src="" width="350" />
+  <img src="img/dogs.gif" width="350" />
 </p>
