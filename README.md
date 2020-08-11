@@ -6,11 +6,11 @@
     Hello there. I'm <a href="https://shishqa.xyz">Mikhail</a>.<br>
     I'm a MIPT student from Krasnoyarsk.<br>
     <br>
-    #python, #c++, #assembly, #html, #js
+    #python, #c++, #assembly, #html, #js<br>
   </samp>
   <br>
   <br>
+  <img src="img/scramble.gif" width="350" />
   <br>
   <br>
-  <img src="img/dogs.gif" width="350" />
 </p>
