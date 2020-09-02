@@ -1,7 +1,6 @@
 <p align="center" font-weight="bold">
   <samp>
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    <br>
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
     <br>
     Hi there. I'm <a href="https://shishqa.xyz">Mikhail</a>.<br>
     I'm a MIPT student from Krasnoyarsk.<br>
@@ -13,9 +12,10 @@
   <br>
   <br>
   <samp>
-    #c++, #assembly, #python
+    #c++, #assembly, #python<br>
     <br>
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
     <br>
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   </samp>
+  <img src="https://github-readme-stats.vercel.app/api?username=shishqa&&show_icons=false&title_color=ffffff&text_color=daf7dc&bg_color=202020" />
 </p>
