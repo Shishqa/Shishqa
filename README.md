@@ -4,10 +4,15 @@
     I'm a MIPT student from Krasnoyarsk.<br>
   </samp>
   <br>
-  <img src="https://github.com/Shishqa/Shishqa/blob/master/img/scramble.gif" width="350" />
+  <a href="https://github.com/Shishqa?tab=repositories">
+    <img src="https://github.com/Shishqa/Shishqa/blob/master/img/typing.gif" width="350"/>
+  </a>
   <br>
   <br>
   <samp>
-    #python, #c++, #assembly, #html, #js<br>
+    #c++, #assembly, #python
+    <br>
+    <br>
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   </samp>
 </p>
