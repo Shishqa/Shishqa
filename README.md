@@ -1,7 +1,7 @@
 <p align="center" font-weight="bold">
   <!-- INFO --> 
   <samp>
-    Hi there. I'm <a href="https://shishqa.github.io/">@shishqa</a>.<br>
+    Hi there. I'm <a href="https://shishqa.xyz/">@shishqa</a>.<br>
     MIPT Student, Developer, Photographer.<br>
   </samp>
   <br>
