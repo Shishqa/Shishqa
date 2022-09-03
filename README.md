@@ -2,7 +2,7 @@
   <!-- INFO --> 
   <samp>
     Hi there. I'm <a href="https://shishqa.xyz/">@shishqa</a>.<br>
-    MIPT Student, Developer, Photographer.<br>
+    Computer Science & Engineering student. Photographer. Geek a bit.<br>
   </samp>
   <br>
   <a href="https://github.com/Shishqa?tab=repositories">
